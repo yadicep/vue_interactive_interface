@@ -36,7 +36,8 @@ HTML5, CSS3, JavaScript, Vue 3, Axios, Bootstrap 5, Vite, Node.js
   <img src="src/assets/img/capture2.png" alt="Preview of the main page">
 </p>
 
-## Installation
-1. Clone the repository
+## **Installation**
+1. Start the project:
    ```bash
-   git clone  https://github.com/yadicep/pokemon_game.git
+   npm run dev
+
